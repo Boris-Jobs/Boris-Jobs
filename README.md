@@ -1,7 +1,6 @@
 # Introduction to me, framxx boris
 - 👋 Hi, I’m boris jobs. I graduated from USTB school of physics and will continue my study in PolyU Data Science. In the future, I want to apply doctor degree in America. Let's keep going!
 - 👀 I’m interested in (1) Data Science, (2) Machine Learning, (3) video tech, (4) Algebra (Advanced, Abstract), (5) Mechanics and Quantum Mechanics.
-- 3 things: **humble, inner strength, eyes**.
 - motto: als ich kann.
 
 ## Plans
