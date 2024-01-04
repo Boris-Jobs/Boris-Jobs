@@ -1,7 +1,7 @@
 # Introduction to me, framxx boris
 - 👋 Hi, I’m boris jobs. I graduated from USTB school of physics and will continue my study in PolyU Data Science.
 - 👀 I’m interested in (1) Database System, (2) Big Data Technology, (3) Algebra and Physics;
-- 👀 我的兴趣领域：（1）数据库系统、（2）大数据科技、（3）代数与物理；
+- 👀 我的兴趣领域：（1）Computer Science、（2）英语和法语、（3）代数和物理；
 - motto: Abandon your illusions and prepare for struggle.
 - 座右铭：丢掉幻想，准备斗争。
 
