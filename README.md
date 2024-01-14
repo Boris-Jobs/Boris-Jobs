@@ -6,7 +6,7 @@
 - 座右铭：丢掉幻想，准备斗争。
 
 ## Plans
-- 🌱 (1) I’m currently learning **CS50**, and I want to write a guide for CS50 and promote it. 
+- 🌱 What courses I am gonna finish: CS61A/B/C, Java (Java Tutorial for Beginners by "Programming with Mosh"), CS50SQL
 - 🌱 (4) Recently, I would make a summary for **IELTS** preparation.
 
 - 🚀 * unfinished: pendulum period, hydorgen, e commerce api, hashing code.
