@@ -6,10 +6,16 @@
 - 座右铭：丢掉幻想，准备斗争。
 
 ## Plans
-- 🌱 What courses I am gonna finish: CS61A/B/C, Java (Java Tutorial for Beginners by "Programming with Mosh"), CS50SQL
-- 🌱 (4) Recently, I would make a summary for **IELTS** preparation.
+- 🌱 What courses I am gonna finish: (1) CS61A/B/C, (2) Java (Java Tutorial for Beginners by "Programming with Mosh"), (3) CS50SQL, (4) CS50, (5) Leetcode.
+- 🌱 
 
-- 🚀 * unfinished: pendulum period, hydorgen, e commerce api, hashing code.
+## My Repositories "我的仓库":
+(I will be refining the following by March 2024. "以下我将会在2024.3之前完善")
+- 🚀 **WanYi_DATAUniverse**: Basic methods of working in different places by Git and cases of getting the Sales and Advertisements data from OceanengineAPI. "利用Git在不同地方工作的基本方式以及通过巨量引擎API来获取销售与广告数据的Python案例"
+- 🚀 **ad_open_sdk_java**, **PowerBI_Embedding_Environment**, **PowerBI-Embedded-Showcases**: These consist of the Java SDK acquired from the OceanengineQianchuan API, the setup of the Power BI Embedding environment from the Power BI Embedded official website, and the embedded examples obtained from the Power BI Embedded Playground. "这分别是我从巨量引擎千川API接口拿来的Java SDK、从Power BI Embedded官网拿到的Power BI Embedding环境搭建以及Power BI Embedded Playground拿到的嵌入式案例"
+
+- 🚀 **boris.github.io**: My personal webpage, but now I have no idea of what to record in my webpage. Right now, I'm solely focused on building my Github. "我的个人主页，但我还没想好在我的主页记录什么，我现在主要专注于我的GitHub搭建"
+- 🚀 **wode-Coding**: Some projects of my undergraduate stage. Angular probability distribution and radial probability distribution of hydrogen, Saliency Detection and Star war in Interstellar. "我本科阶段的一些项目，氢的角概率分布和径向概率分布，图像显著性检测和星际穿越的星球大战"
 
 - 💞️ For languages, I am learning **English and French**.
 
