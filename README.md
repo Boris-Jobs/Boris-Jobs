@@ -7,7 +7,7 @@
 ### Interesting Projects: "有趣的项目"
 - 🚀 **boris.github.io**: My personal webpage, but now I have no idea of what to record in my webpage. Right now, I'm solely focused on building my Github. "我的个人主页，但我还没想好在我的主页记录什么，我现在主要专注于我的GitHub搭建"
 - 🚀 **IELTS-Learning**: My collections for IELTS questions and rules, this one is to be finished. "我的雅思问题与规则集，这部分将会在未来完成"
-- 🚀 **Pendulum-Period_Discussion**:: A question caught my interest in my high school period. 
+- 🚀 **Pendulum-Period_Discussion**:: A question caught my interest in my high school period. Solved the problem of the period of a simple pendulum using the method of elliptic integration. "椭圆积分与单摆周期"
 ### Projects in my work: "我的工作阶段项目"
 (I will be refining the following by March 2024.)
 - 🚀 **WanYi_DATAUniverse**: Basic methods of working in different places by Git and cases of getting the Sales and Advertisements data from OceanengineAPI. "利用Git在不同地方工作的基本方式以及通过巨量引擎API来获取销售与广告数据的Python案例"
