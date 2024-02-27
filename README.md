@@ -1,5 +1,5 @@
 # Introduction to me, framxx boris
-- 👋 Hi, I’m boris jobs. I graduated from USTB school of physics.
+- 👋 Hi, my name is boris jobs. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong.
 - 👀 I’m interested in (1) Data Architecture, (2) English and Français, (3) Linux, (4) Theoretical Physics;
 - motto: Abandon your illusions and prepare for struggle.
 
