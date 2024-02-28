@@ -1,6 +1,6 @@
-# Introduction to me, framxx boris
-- 👋 Hi, my name is boris jobs. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong.
-- 👀 I’m interested in (1) Data Architecture, (2) English and Français, (3) Linux, (4) Theoretical Physics;
+# Introduction to me, boris sigma
+- 👋 Hi, my name is boris sigma. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong.
+- 👀 I’m interested in (1) machine learning, (2) English and Français, (3) Linux, (4) Theoretical Physics;
 - motto: Abandon your illusions and prepare for struggle.
 
 ## My Repositories "我的仓库":
