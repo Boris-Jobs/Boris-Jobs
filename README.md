@@ -1,6 +1,6 @@
 # Introduction to me, boris sigma
 - 👋 Hi, my name is boris sigma. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong.
-- 👀 I’m interested in (1) machine learning, (2) English and Français, (3) Linux, (4) Theoretical Physics;
+- 👀 I’m interested in (1) machine learning, (2) English and Français, (3) Linux, (4) Distributed System;
 - 👨‍🚀 motto: Offer valuable services and products to your immediate community.
 
 ## My Repositories "我的仓库":
