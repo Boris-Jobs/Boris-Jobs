@@ -5,14 +5,14 @@
 
 - 🚀 **FrameX Inc. (boris.github.io, Boris-Jobs, wode-Coding)**: Things about FrameX and Boris.
 
-- 🚀 **Machine_Learning and AI (_machine_learning_notes, hash_algorithm_research)**: The learning records of machine learning. "机器学习项目"
+- 🚀 **Machine_Learning and AI (_machine_learning_scratch_notes, hash_algorithm_research)**: The learning records of machine learning. "机器学习项目"
 
-- 🚀 **Mathematics (Pendulum-Period-Discussion, _algorithm_notes)**: A question caught my interest in my high school period. Solved the problem of the period of a simple pendulum using the method of elliptic integration. "椭圆积分与单摆周期"
+- 🚀 **Mathematics (Pendulum-Period-Discussion, _algorithm_scratch_notes)**: A question caught my interest in my high school period. Solved the problem of the period of a simple pendulum using the method of elliptic integration. "椭圆积分与单摆周期"
 
 - 🚀 **Business_Intelligence (WanYi_DATA_Universe)**: Getting the Sales and Advertisements data from OceanengineAPI. "通过巨量引擎API来获取销售与广告数据"
 
 
-
+Repositories to be created: **_machine_learningscratch_notes**, **_algorithms_scratch_notes**.
 
 
 
