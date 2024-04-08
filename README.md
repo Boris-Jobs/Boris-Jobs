@@ -12,7 +12,7 @@
 - 🚀 **Business_Intelligence (WanYi_DATA_Universe)**: Getting the Sales and Advertisements data from OceanengineAPI. "通过巨量引擎API来获取销售与广告数据"
 
 
-### Repositories to be created: **_machine_learningscratch_notes**, **_algorithms_scratch_notes**.
+### Repositories to be created: **_machine_learning_scratch_notes**, **_algorithms_scratch_notes**.
 
 
 
