@@ -1,7 +1,11 @@
 # Introduction to me, boris jobs
 - 👋 Hi, my name is boris jobs. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong (Computer Science (Innovative Design and Technology)). 
 - 👀 I’m interested in (1) Machine Learning and AI, (2) Mathematics, (3) Sophisticated Business Intelligence, (4) Eminem;
-- 👨‍🚀 motto: "日日行, 不怕千万里, 常常做, 不怕千万事."
+
+- 👨‍🚀 motto: "
+        Every step taken, fear no distance vast;
+        In ceaseless deeds, fear no myriad tasks amassed.
+"
 
 - 🚀 **FrameX Inc. (boris.github.io, Boris-Jobs, wode-Coding)**: Things about FrameX and Boris.
 
