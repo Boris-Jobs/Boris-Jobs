@@ -1,7 +1,7 @@
 # Introduction to me, boris jobs
 - 👋 Hi, my name is boris jobs. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong (Computer Science (Innovative Design and Technology)).
 
-- 👀 I’m interested in (1) Machine Learning, (2) Mathematics, (3) Business Intelligence, (4) Eminem;
+- 👀 I’m interested in (1) Machine Learning, (2) Mathematics, (3) Business Intelligence;
 
 - 💻 Other fields:  
 &nbsp;&nbsp;&nbsp;&nbsp; OS: xv6, Linux, Unix;  
@@ -26,9 +26,9 @@
 
 
 
-- 💞️ For languages, I am learning **English, French and Cantonese**.
+- 💞️ My hobbies, languages like **English and French**, videos like **manim and movies**, music like **micheal and eminem**.
 
-- 💞️ For musician, I love **Eminem**.
+- 💞️ Also, I am a big fan of mao and elon musk.
 
 - 📫 here is my e-mail: 1322553126@qq.com
 
