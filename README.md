@@ -1,6 +1,12 @@
 # Introduction to me, boris jobs
-- 👋 Hi, my name is boris jobs. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong (Computer Science (Innovative Design and Technology)). 
+- 👋 Hi, my name is boris jobs. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong (Computer Science (Innovative Design and Technology)).
+
 - 👀 I’m interested in (1) Machine Learning, (2) Mathematics, (3) Business Intelligence, (4) Eminem;
+
+- 💻 Other fields:  
+&nbsp;&nbsp;&nbsp;&nbsp; OS: xv6, Linux, Unix;  
+&nbsp;&nbsp;&nbsp;&nbsp; Data Science: Hadoop, Oracle, MySQL;  
+&nbsp;&nbsp;&nbsp;&nbsp; Information Security: Encryption Algorithms, Quantitative Trading, Cryptocurrency, Networks;  
 
 - 👨‍🚀 motto: "  
 &nbsp;&nbsp;&nbsp;&nbsp; Every step taken, fear no distance vast;  
