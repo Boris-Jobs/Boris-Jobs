@@ -30,7 +30,7 @@
 
 - 💞️ Also, I am a big fan of mao and elon musk.
 
-- 📫 here is my e-mail: 1322553126@qq.com
+- 📫 here is my e-mail: 1322553126@qq.com or cz1322553126@gmail.com
 
 <!---
 Boris-Jobs/Boris-Jobs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
