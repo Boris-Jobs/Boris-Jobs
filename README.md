@@ -1,7 +1,7 @@
 # Introduction to me, Boris
 - 👋 Hi, my name is Boris Jobs. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong (Computer Science (Innovative Design and Technology)).
 
-- 👀 I’m interested in (1) Machine Learning, (2) Mathematics, (3) Business Intelligence;
+- 👀 I’m interested in 1. Machine Learning, 2. Mathematics, 3. Business Intelligence;
 
 - 💻 Other fields:  
 &nbsp;&nbsp;&nbsp;&nbsp; OS: xv6, Linux, Unix;  
