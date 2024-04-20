@@ -3,10 +3,6 @@
 
 - 👀 I’m interested in 1. Machine Learning, 2. Mathematics, 3. Business Intelligence;
 
-- 💻 Other fields:  
-&nbsp;&nbsp;&nbsp;&nbsp; OS: xv6, Linux, Unix;  
-&nbsp;&nbsp;&nbsp;&nbsp; Data Science: Hadoop, Oracle, MySQL;  
-&nbsp;&nbsp;&nbsp;&nbsp; Information Security: Encryption Algorithms, Quantitative Trading, Cryptocurrency, Networks;  
 
 - 👨‍🚀 motto: "  
 &nbsp;&nbsp;&nbsp;&nbsp; Every step taken, fear no distance vast;  
