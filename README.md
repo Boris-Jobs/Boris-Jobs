@@ -16,6 +16,7 @@
 
 ✨ something special ✨ I strongly endorse the mission of xAI led by Elon Musk - Understand the Universe. Moreover, I am a die-hard fan of xAI, and that's why I want to delve deeper and further into AI.
 
+(My profile picture is Alexander Grothendieck, a mysterious figure.)
 <!---
 Boris-Jobs/Boris-Jobs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
