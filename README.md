@@ -8,15 +8,13 @@
 
 - 🚀 **Machine Learning Projects (repository name: _exploration_ML_DL, _research_hash_algorithm)**: I'm currently learning the course "Dive Into Deep Learning (PyTorch)" led by Li Mu, and I'm syncing my related learning notes in the "_exploration_ML_DL" repository. The notes are stored in the form of comments within the code. Since I'm eager to understand the knowledge thoroughly, I haven't organized the notes into a Jupyter notebook format yet. This repository will be continuously updated.
 
-- 🚀 **Mathematics Projects (repository name: Pendulum-Period-Discussion, _exploration_algorithms)**: A question caught my interest in my high school period. Solved the problem of the period of a simple pendulum using the method of elliptic integration. "椭圆积分与单摆周期"
+- 🚀 **Mathematics Projects (repository name: Pendulum-Period-Discussion, _exploration_algorithms)**: The former was a question that I had wanted to study since high school, and it was only after graduation from university that I found time to complete the research on this topic of Pendulum Period. The latter is a note on algorithm learning that I am yet to update.
 
-- 🚀 **Business_Intelligence (repository name: WanYi_DATA_Universe)**: Get the Sales and Advertisements data from OceanengineAPI then process them.
-
-- 💞️ My hobbies, languages like **English and French**, videos like **manim and movies**, music like **micheal and eminem**.
-
-- 💞️ Also, I am a big fan of mao and elon musk.
+- 🚀 **Business_Intelligence (repository name: WanYi_DATA_Universe)**: This is a case of an e-commerce advertising generation platform and a program for automatically generating daily report data for data analysis that I did before.
 
 - 📫 here is my e-mail: 1322553126@qq.com or cz1322553126@gmail.com
+
+✨ something special ✨ I strongly endorse the mission of xAI led by Elon Musk - Understand the Universe. Moreover, I am a die-hard fan of xAI, and of course, that's why I love AI.
 
 <!---
 Boris-Jobs/Boris-Jobs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
