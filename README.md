@@ -14,7 +14,7 @@
 
 - 📫 These two are my e-mails: 1322553126@qq.com or cz1322553126@gmail.com
 
-✨ something special ✨ I strongly endorse the mission of xAI led by Elon Musk - Understand the Universe. Moreover, I am a die-hard fan of xAI, and of course, that's why I love AI.
+✨ something special ✨ I strongly endorse the mission of xAI led by Elon Musk - Understand the Universe. Moreover, I am a die-hard fan of xAI, and of course, that's why I want to delve deeper and further into AI.
 
 <!---
 Boris-Jobs/Boris-Jobs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
