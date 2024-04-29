@@ -10,7 +10,7 @@
 
 - 🚀 **Mathematics Projects (repository name: Pendulum-Period-Discussion, _exploration_algorithms)**: The former was a question that I had wanted to study since high school, and it was only after graduation from university that I found time to complete the research on this topic of Pendulum Period. The latter is a note on algorithm learning that I am yet to update.
 
-- 🚀 **Business_Intelligence (repository name: WanYi_DATA_Universe)**: This is a case of an e-commerce advertising generation platform and a program for automatically generating daily report data for data analysis that I did before.
+- 🚀 **Business Intelligence Projects (repository name: WanYi_DATA_Universe)**: This is a case of an e-commerce advertising generation platform and a program for automatically generating daily report data for data analysis that I did before.
 
 - 📫 These two are my e-mails: 1322553126@qq.com or cz1322553126@gmail.com
 
