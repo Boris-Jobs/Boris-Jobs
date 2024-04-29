@@ -1,19 +1,18 @@
-# Introduction to me, Boris
-- 👋 Hi, my name is Boris Jobs. I got my bachelor degree in Physics from USTB, and I am gonna finish my master of science degree in the University of Hong Kong (Computer Science (Innovative Design and Technology)).
+# $\text{Introduction to me, Boris}$
+👋 $\text{Hi, my name is Chen Zhe, but you can call me Boris. I earned my bachelor's degree in Applied Physics from the University of Science and Technology Beijing.}$
+$\text{Currently, I'm enrolled in the master's program in Innovative Design and Technology (with a focus on computer science) at the University of Hong Kong.}$
+$\text{And I'm expected to graduate in Dec 2025.}$
 
-- 👀 I’m interested in 1. Machine Learning, 2. Mathematics, 3. Business Intelligence;
-
+- 👀 I’m interested in 1. , 2. Pure Mathematics, 3. Programming for Engaging Tasks;
 
 - 👨‍🚀 motto: "  
 &nbsp;&nbsp;&nbsp;&nbsp; Every step taken, fear no distance vast;  
 &nbsp;&nbsp;&nbsp;&nbsp; In ceaseless deeds, fear no myriad tasks;  
 "
 
-- 🚀 **FrameX Inc. (boris.github.io, Boris-Jobs, wode-Coding)**: Things about FrameX and Boris.
+- 🚀 **Machine Learning Projects (repository name: _exploration_ML_DL, _research_hash_algorithm)**: I'm currently learning the course "Dive Into Deep Learning (PyTorch)" led by Li Mu, and I'm syncing my related learning notes in the "_exploration_ML_DL" repository. The notes are stored in the form of comments within the code. Since I'm eager to understand the knowledge thoroughly, I haven't organized the notes into a Jupyter notebook format yet. This repository will be continuously updated.
 
-- 🚀 **Machine_Learning and AI (_notes_machine_learning, _research_hash_algorithm)**: The learning records of machine learning.
-
-- 🚀 **Mathematics (Pendulum-Period-Discussion, _notes_algorithm)**: A question caught my interest in my high school period. Solved the problem of the period of a simple pendulum using the method of elliptic integration. "椭圆积分与单摆周期"
+- 🚀 **Mathematics Projects (Pendulum-Period-Discussion, _exploration_algorithms)**: A question caught my interest in my high school period. Solved the problem of the period of a simple pendulum using the method of elliptic integration. "椭圆积分与单摆周期"
 
 - 🚀 **Business_Intelligence (WanYi_DATA_Universe)**: Get the Sales and Advertisements data from OceanengineAPI then process them.
 
