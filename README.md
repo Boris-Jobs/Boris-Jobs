@@ -4,7 +4,7 @@
    $\text{Currently, I'm enrolled in the master's program in Innovative Design and Technology (with a focus on computer science)}$
    $\text{at the University of Hong Kong. And I'm expected to graduate in Dec 2025.}$
 
-- 👀 $\text{I’m interested in 1. Artificial Intelligence, 2. Pure Mathematics, 3. Programming for Engaging Tasks;}$
+- 👀 $\text{I’m interested in 1. Artificial Intelligence, 2. Pure Mathematics and Physics, 3. Programming for Engaging Tasks;}$
 
 - 🚀 **Machine Learning Projects (repository name: _exploration_ML_DL, _research_hash_algorithm)**: I'm currently learning the course "Dive Into Deep Learning (PyTorch)" led by Li Mu, and I'm syncing my related learning notes in the "_exploration_ML_DL" repository. The notes are stored in the form of comments within the code. Since I'm eager to understand the knowledge thoroughly, I haven't organized the notes into a Jupyter notebook format yet. This repository will be continuously updated.
 
