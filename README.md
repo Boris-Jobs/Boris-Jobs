@@ -12,7 +12,7 @@
 
 - 🚀 **Business_Intelligence (repository name: WanYi_DATA_Universe)**: This is a case of an e-commerce advertising generation platform and a program for automatically generating daily report data for data analysis that I did before.
 
-- 📫 here is my e-mail: 1322553126@qq.com or cz1322553126@gmail.com
+- 📫 These two are my e-mails: 1322553126@qq.com or cz1322553126@gmail.com
 
 ✨ something special ✨ I strongly endorse the mission of xAI led by Elon Musk - Understand the Universe. Moreover, I am a die-hard fan of xAI, and of course, that's why I love AI.
 
