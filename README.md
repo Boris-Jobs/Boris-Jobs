@@ -1,7 +1,8 @@
 # $\text{Introduction to me, Boris}$
-👋 $\text{Hi, my name is Chen Zhe, but you can call me Boris. I earned my bachelor's degree in Applied Physics from the University of Science and Technology Beijing.}$
-$\text{Currently, I'm enrolled in the master's program in Innovative Design and Technology (with a focus on computer science) at the University of Hong Kong.}$
-$\text{And I'm expected to graduate in Dec 2025.}$
+👋 $\text{Hi, my name is Chen Zhe, but you can call me Boris.}$  
+$\text{I earned my bachelor's degree in Applied Physics from the University of Science and Technology Beijing in 2022.}$  
+$\text{Currently, I'm enrolled in the master's program in Innovative Design and Technology (with a focus on computer science)}$  
+$\text{at the University of Hong Kong. And I'm expected to graduate in Dec 2025.}$
 
 - 👀 I’m interested in 1. , 2. Pure Mathematics, 3. Programming for Engaging Tasks;
 
