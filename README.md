@@ -1,5 +1,5 @@
 # Hi there, this is Boris (Chen).
-👋 I got my bachelor's degree in Applied Physics from the University of Science and Technology Beijing in 2022. Currently, I'm enrolled in the master's program in Innovative Design and Technology (with a focus on computer science) at the University of Hong Kong. And I'm expected to graduate in Dec 2025.
+👋 Applied Physics, USTB, 2018.09-2022.06; Innovative Design and Technology, HKU, 2024.09-2025.12
 
 
 - 👀 $\text{I’m interested in 1. Algebra, 2. Multimodal LLMs, 3. Multimodal Representation Learning.}$
