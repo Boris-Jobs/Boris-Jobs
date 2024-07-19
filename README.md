@@ -1,6 +1,6 @@
 # Hi there, this is Boris (Chen).
-👋 Applied Physics, USTB, 2018.09-2022.06; Innovative Design and Technology, HKU, 2024.09-2025.12
-
+👋 Applied Physics, USTB, 2018.09-2022.06
+👋 Innovative Design and Technology, HKU, 2024.09-2025.12
 
 - 👀 $\text{I’m interested in 1. Algebra, 2. Multimodal LLMs, 3. Multimodal Representation Learning.}$
 
