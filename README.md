@@ -4,7 +4,7 @@
 
 - 👀 $\text{I’m interested in 1. Algebra, 2. Multimodal LLMs, 3. Multimodal Representation Learning.}$
 
-- 🚀 **Machine Learning Projects (repository name: _exploration_ML_DL, _research_hash_algorithm)**: I'm currently learning the course "Dive Into Deep Learning (PyTorch)" led by Li Mu, and I'm syncing my related learning notes in the "_exploration_ML_DL" repository. The notes are stored in the form of comments within the code. Since I'm eager to understand the knowledge thoroughly, I haven't organized the notes into a Jupyter notebook format yet. This repository will be continuously updated.
+- 🚀 **Machine Learning Projects (repository name: _research_hash)**: I'm currently learning the course "Dive Into Deep Learning (PyTorch)" led by Li Mu, and I'm syncing my related learning notes in the "_exploration_ML_DL" repository. The notes are stored in the form of comments within the code. Since I'm eager to understand the knowledge thoroughly, I haven't organized the notes into a Jupyter notebook format yet. This repository will be continuously updated.
 
 - 🚀 **Mathematics Projects (repository name: Pendulum-Period-Discussion, _exploration_algorithms)**: The former was a question that I had wanted to study since high school, and it was only after graduation from university that I found time to complete the research on this topic of Pendulum Period. The latter is a note on algorithm learning that I am yet to update.
 
