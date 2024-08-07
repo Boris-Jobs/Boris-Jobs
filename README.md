@@ -2,7 +2,7 @@
 👋 $\text{Applied Physics, USTB, 2018.09-2022.06}$  
 👋 $\text{Innovative Design and Technology, HKU, 2024.09-2025.12}$
 
-- 👀 $\text{I’m interested in 1. Algebra, 2. Multimodal Representation Learning. 3. Train COOL THINGS.}$
+- 👀 $\text{I’m interested in 1. Algebra, 2. Multimodal Representation Learning. 3. Train COOL and PROFESSIONAL THINGS.}$
 - Future, I .. (to be updated)
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
