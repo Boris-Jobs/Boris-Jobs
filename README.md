@@ -7,7 +7,7 @@
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
-✨ something special ✨ .. 
+✨ something special ✨ I hope to use AI or LLMs to help people better understand the world and humanity.
 
 (My profile picture is young Alexander Grothendieck, a mysterious figure.)
 <!---
