@@ -2,12 +2,12 @@
 👋 $\text{Applied Physics, USTB, 2018.09-2022.06}$  
 👋 $\text{Innovative Design and Technology, HKU, 2024.09-2025.12}$
 
-- 👀 $\text{I’m interested in 1. Algebra, 2. Multimodal Representation Learning. 3. Train COOL THINGS.}$
-- Future, I .. (to be updated)
+- 👀 $\text{I’m interested in 1. Multimodal LLMs; 2. Train COOL AIs.}$
+
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
-✨ something special ✨ I .. (to be updated)
+✨ something special ✨ .. 
 
 (My profile picture is young Alexander Grothendieck, a mysterious figure.)
 <!---
