@@ -1,6 +1,6 @@
 # Hi there, this is Boris (Chen).
 👋 $\text{Applied Physics, USTB, 2018.09-2022.06}$  
-👋 $\text{Innovative Design and Technology, HKU, 2024.09-2025.12}$
+👋 $\text{Innovative Design and Technology (Field: CS), HKU, 2024.09-2025.12}$
 
 - 👀 $\text{I’m interested in 0. Pure Mathematics and Physics; 1. Multimodal LLMs; 2. Train COOL AIs.}$
 
