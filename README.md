@@ -1,6 +1,6 @@
 # Hi there, this is Boris (Chen).
 
-🕸️ Webpage: https://boris-jobs.github.io/
+🕸️ Personal Webpage: https://boris-jobs.github.io/
 
 👋 $\text{Applied Physics, USTB, 2018.09-2022.06}$  
 👋 $\text{Innovative Design and Technology (Field: CS), HKU, 2024.09-2025.12}$
