@@ -18,9 +18,6 @@
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/Boris-Jobs/count.svg)
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boris-Jobs/Boris-Jobs/output/github-contribution-grid-snake-dark.svg">
