@@ -5,7 +5,7 @@
 
 
 
-- 👀 $\text{I’m interested in 0. MLLM's Jailbreak; 1. Multi-Agent World/Society.}$
+- 👀 $\text{I’m interested in 0. MLLM; 1. AI Safety.}$
 
 👋 $\text{Applied Physics, USTB, 2018.09-2022.06}$  
 👋 $\text{Innovative Design and Technology, HKU, 2024.09-2025.12}$
