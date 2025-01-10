@@ -12,7 +12,7 @@
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
-✨ Long Term Goal ✨ Develop a personalized J.A.R.V.I.S. (named $\text{.v}$) that may operates as a multi-agent system, designed to serve as my personalized_AI/virtual_soul_mate.
+✨ Long Term Goal ✨ Develop a personalized J.A.R.V.I.S. (named $\text{.v}$).
 
 (My profile picture is young Alexander Grothendieck, a mysterious figure.)
 
