@@ -14,7 +14,7 @@
 
 ✨ Long Term Goal ✨ Develop a personalized J.A.R.V.I.S. (named $\text{.v}$).
 
-(My profile picture is from [https://arxiv.org/pdf/1605.08112](https://arxiv.org/pdf/1605.08112).)
+(My profile picture comes from [https://arxiv.org/pdf/1605.08112](https://arxiv.org/pdf/1605.08112).)
 
 
 <div align="center">
