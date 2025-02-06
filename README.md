@@ -8,7 +8,7 @@
 - 👀 $\text{I’m interested in 0. Multimodal LLMs; 1. AI Safety.}$
 
 👋 $\text{Applied Physics, USTB, 2018.09-2022.06}$  
-👋 $\text{Innovative Design and Technology, HKU, 2024.09-2025.12}$
+👋 $\text{Computer Science (Innovative Design and Technology), HKU, 2024.09-2025.12}$
 
 - 📫 e-mails: u3631628@connect.hku.hk or cz1322553126@gmail.com
 
